@@ -1,6 +1,8 @@
 # blender_german
 translate blender 2.79 + 2.80
 
+# Rename/Umbenenen de-blender087.mo in blender.mo
+
 German Deutsch Version 0.87
 
      * Übersetzung                                        Elemente               Wörter              Zeichen
