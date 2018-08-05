@@ -18,4 +18,4 @@ I have been working on this translation since 2017.
 
 # TODO
 
-rBTS4697 Korrektur und Prüfung Error Format, Translation
+rBTS4697 Korrektur und Prüfung: Error Format, Translation
