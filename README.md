@@ -26,3 +26,7 @@ German Deutsch Version 0.87
      Zeichenketten in originaler Sprache                     23896               111691               668533
      Benötigt Überarbeitung                                                           0                    0
      Nicht übersetzt                                             0                    0                    0
+
+# TODO
+
+rBTS4697 Korrektur und Prüfung
