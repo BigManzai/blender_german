@@ -3,7 +3,7 @@ translate blender 2.79 + 2.80
 
 # Rename/Umbenenen de-blender0_XXX.mo in blender.mo
 
-Ich habe alles eingefügt aus rBTS4697, de.po, uk.po, ru.po, ja.po, fr.po und blender.pot.
+Ich habe alles eingefügt aus de.po, uk.po, ru.po, ja.po, fr.po und blender.pot.
 
 Ich arbeite seit anfang 2017 an dieser übersetzung.
 
@@ -18,4 +18,4 @@ I have been working on this translation since 2017.
 
 # TODO
 
-rBTS4697 Korrektur und Prüfung
+rBTS4697 Korrektur und Prüfung Error Format, Translation
